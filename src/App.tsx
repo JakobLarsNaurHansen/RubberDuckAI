@@ -22,7 +22,7 @@ function App() {
   );
 }
 
-const styles = {
+const styles: any = {
   pageWrapper: {
     width: "100%",
     display: "flex",
